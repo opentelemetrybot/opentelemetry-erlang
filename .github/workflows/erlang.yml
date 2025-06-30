@@ -17,7 +17,7 @@ permissions:
 jobs:
   build:
     permissions:
-      checks: write # required for publishing test reports
+      checks: write
     name: Test on OTP ${{ matrix.otp_version }} and ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
     strategy:
