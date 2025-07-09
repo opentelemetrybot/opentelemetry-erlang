@@ -217,12 +217,8 @@ For more information about the maintainer role, see the [community repository](h
 
 ### Approvers
 
-- [Bryan Naegele](https://github.com/bryannaegele), [Simplebet](https://simplebet.io/)
 - [Fred Hebert](https://github.com/ferd), [Honeycomb](https://www.honeycomb.io/)
 - [Greg Mefford](https://github.com/GregMefford), [STORD](https://www.stord.com/)
-- [Iliia Khaprov](https://github.com/deadtrickster), [VMWare](https://www.vmware.com/)
-- [Łukasz Jan Niemier](https://github.com/hauleth)
-- [Tristan Sloughter](https://github.com/tsloughter), [Splunk](https://www.splunk.com/en_us/observability/apm-application-performance-monitoring.html)
 
 For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver).
 
